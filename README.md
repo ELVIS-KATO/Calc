@@ -1,3 +1,4 @@
 PYTHON CALCULATORS
 
-Open the terminal and Run python Calculator.py
+Open the terminal and Run: python Calculator.py
+
